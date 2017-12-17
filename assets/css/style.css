@@ -1,0 +1,11 @@
+body{
+	background-color: #2D2E29;
+	margin: 0;
+	color:white;
+	padding: 20px;
+}
+
+#gifButtons{
+	grid-row: 1;
+	margin-bottom: 30px;
+}
